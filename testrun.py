@@ -39,7 +39,7 @@ def get_3_items(expression):
     eval3 = []
     eval3.append(expression[0:3])
     x = eval[(eval3[0])
-    return x
+    print x
 
 def get_2_items(expression):
     eval2 = []
